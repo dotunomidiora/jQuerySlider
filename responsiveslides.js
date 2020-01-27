@@ -1,9 +1,7 @@
-/*! ResponsiveSlides.js v1.55
- * http://responsiveslides.com
- * http://viljamis.com
+/*! Simple jQuery Slider v1.56
+ * http://dmoinspire.com
  *
- * Copyright (c) 2011-2012 @viljamis
- * Available under the MIT license
+ * Copyright (c) 2019 @dotun
  */
 
 /*jslint browser: true, sloppy: true, vars: true, plusplus: true, indent: 2 */
