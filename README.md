@@ -27,7 +27,7 @@ Simple jQuery Slider is a tiny jQuery plugin that creates a responsive slider us
 Usage Instructions and demo
 ======
 
-For instructions and demo go to [https://dotunomidiora.github.io/jQuerySlider/](https://dotunomidiora.github.io/jQuerySlider/).
+For instructions and demo go to [https://dotunomidiora.github.io/jQuerySlider/demo/demo.html](https://dotunomidiora.github.io/jQuerySlider/demo/demo.html).
 
 
 Currently jQuery 1.6 and up is supported.
